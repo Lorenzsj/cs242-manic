@@ -1,6 +1,8 @@
 # manic
 2D fighting game written in libgdx.
 
+![Example of Game](https://raw.githubusercontent.com/Lorenzsj/cs242-manic/master/preview.png)
+
 Visit the wiki's ![Getting Started](https://github.com/Lorenzsj/manic/wiki) page if you are unsure about how to integrate our project in eclipse.
 
 #Development Progress
